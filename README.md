@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=120&section=header" width="100%"/>
 
 # Mohamed Kamal Rashed
-### Data Analyst · BI Developer · AI Engineering Student
+### Data Analytics And Science Specialist · Machine Learning · BI Developer · AI Engineering Student
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Turning+raw+data+into+actionable+insights;Building+ML+pipelines+%26+NLP+systems;Power+BI+%7C+Python+%7C+Deep+Learning;FCAI+Banha+University+%E2%80%94+AI+Major+%E2%80%9827" alt="Typing SVG" />
@@ -22,6 +22,27 @@
 - 🌍 Based in **Cairo, Egypt**
 - 📬 Reach me at **mkrashed1999@gmail.com**
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohamedkamal822&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedkamal822&theme=github-dark&hide_border=true" />
+
+</div>
+
+---
+
+## 💻 Top Languages
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedkamal822&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
+</div>
 ---
 
 ## 🛠️ Tech Stack
@@ -64,15 +85,14 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🛰️ [**ORBIT — Satellite Image Classifier**](https://github.com/mohamedkamal822) | CNN model classifying satellite imagery into fire, flood, cloudy, and normal scenes | Python · FastAPI · Docker · CNN |
-| 📩 [**SMS Spam Detector**](https://sms-spam-detector-bfcai.streamlit.app) | Live NLP app classifying spam messages with Multinomial Naive Bayes | Python · Streamlit · NLP |
+| 🛰️ [**ORBIT — Satellite Image Classifier**](https://github.com/mohamedkamal822/satellite-image-classifier)) | CNN model classifying satellite imagery into fire, flood, cloudy, and normal scenes | Python · FastAPI · Docker · CNN |
+| 📩 [**SMS Spam Detector**](https://github.com/mohamedkamal822/sms-spam-detector) | Live NLP app classifying spam messages with Multinomial Naive Bayes | Python · Streamlit · NLP |
 | 👥 **HR Analytics Dashboard** | ML pipeline with SMOTE, Logistic Regression, Random Forest & XGBoost for employee attrition | Python · Scikit-learn · Colab |
-| 🤖 **AI Recruiter** *(in progress)* | Multimodal interview intelligence platform using CV, audio analysis & LLM evaluation | Python · CV · NLP · LLMs |
 | 🚚 **Supply Chain Analytics** | End-to-end Power BI dashboard tracking inventory, delivery performance, and supplier KPIs | Power BI · DAX · Data Modeling |
 | 🎓 **Student Habits Analysis** | Power BI dashboard + Linear Regression model analyzing how sleep, study hours, diet, exercise, and mental health affect exam scores across 1,000 students — with insights, recommendations, and an early-warning risk framework | Power BI · Python · Scikit-learn · EDA |
 | 📡 **Telecom Customer Churn Analysis** | End-to-end churn analysis on 7,043 customers (26.54% churn rate) — SQL-based exploration, Random Forest classifier (78.56% acc, AUC 0.827), 4-page Power BI dashboard covering executive overview, demographics, services & contracts, and financial insights | Power BI · Python · SQL · Random Forest · Scikit-learn |
-| 🚗 **3D Car Driving Simulator** | OpenGL/GLUT simulator with physics, multi-camera modes, day/night cycle, and HUD display | C++ · OpenGL · GLUT |
-| 🦆 **Duck Escape** | Turn-based strategy puzzle where the player blocks a grid to trap an AI-controlled duck using A\* pathfinding | Python · Pygame · A\* · BFS · OOP |
+| 🚗 [**3D Car Driving Simulator**](https://github.com/mohamedkamal822/Car-Simulator-OpenGL)| OpenGL/GLUT simulator with physics, multi-camera modes, day/night cycle, and HUD display | C++ · OpenGL · GLUT |
+| 🦆 [**Duck Escape**](https://github.com/malakabdelgwad5/Duck-Escape) | Turn-based strategy puzzle where the player blocks a grid to trap an AI-controlled duck using A\* pathfinding | Python · Pygame · A\* · BFS · OOP |
 
 ---
 
